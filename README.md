@@ -1,16 +1,25 @@
-## Hi there 👋
+#  Hi, I'm Wonseok  
+Backend Engineer (Spring Boot, AWS )
 
-<!--
-**No1stone/No1stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
+- Spring Boot 기반 **백엔드 개발**
+- Spring Cloud Gateway, JWT, Redis, Vault 등 **보안/인증 아키텍처 구축**
+- AWS 기반
+- Grafana, Prometheus, Loki, Zipkin 등 **Observability 구성**
+- Jenkins 
 
-Here are some ideas to get you started:
+### Current Projects
+- **Origemite Platform (MSA + Gateway 중심 구조)**
+- **Vault Transit 기반 RSA/JWKS 키 로테이션**
+- **OTLP → Loki → Grafana 로그 파이프라인 구축**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔧 Tech Stack
+`Java`, `Spring Boot`, `Spring Cloud`,   
+`AWS`, `EKS`, `Docker`, `Redis`, `MySQL`  
+`Grafana`, `Prometheus`, `Loki`, `Zipkin`  
+
+---
+
+📫 **Contact**  
+Email: jangws1003@naver.com
