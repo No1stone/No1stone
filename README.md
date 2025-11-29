@@ -11,7 +11,7 @@ Backend Engineer (Spring Boot, AWS)
 - **Origemite Platform (MSA + Gateway 중심 구조)**
 - **Vault Transit 기반 RSA/JWKS 키 로테이션**
 - **OTLP → Loki → Grafana 로그 파이프라인 구축**
-- **Graphql → gRPC 서버구축 **
+- **Graphql → gRPC 서버구축**
 
 ### 🔧 Tech Stack
 `Java/Kotlin(학습중)`, `Spring Boot`, `Spring Cloud`,   
