@@ -13,12 +13,12 @@ Backend Engineer (Spring Boot, AWS)
 - **OTLP → Loki → Grafana 로그 파이프라인 구축**
 - **Graphql → gRPC 서버구축**
 
-### 🔧 Tech Stack
+### Tech Stack
 `Java/Kotlin(학습중)`, `Spring Boot`, `Spring Cloud`,   
 `AWS`, `EKS`, `Docker`, `Redis`, `MySQL`,  
 `Grafana`, `Prometheus`, `Loki`, `Zipkin`  
 
 ---
 
-📫 **Contact**  
+**Contact**  
 Email: jangws1003@naver.com
