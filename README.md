@@ -2,7 +2,7 @@
 Backend Engineer (Spring Boot, AWS)  
 
 ### What I Do
-- Spring Boot 기반 **백엔드 개발**
+- Spring Boot 기반 **MSA 백엔드 개발**
 - Spring Cloud Gateway, JWT, Redis, Vault 등 **보안/인증 아키텍처 구축**
 - Grafana, Prometheus, Loki, Zipkin 등 **Observability 구성**
 - Jenkins 
